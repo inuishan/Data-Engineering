@@ -13,3 +13,13 @@ A data lake is where data is stored, but without the structure or query optimiza
 • Singer
 • Stitch
 • Fivetran
+
+## Workflow Orchestration Platforms
+
+Apache Airflow, Luigi, and AWS Glue
+
+## Common Data Pipeline Patterns
+
+### ELT (preffered now) vs ETL 
+
+## Debezium of data extraction
